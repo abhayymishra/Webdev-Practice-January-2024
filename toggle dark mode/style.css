@@ -1,0 +1,22 @@
+.container{
+    padding: 50px;
+}
+
+.container button {
+    padding: 10px;
+    border-radius: 20px;
+    background: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.container button:hover{
+    background:white;
+    color: black;
+}
+
+.dark-mode{
+    background-color: black;
+    color: #fff;
+}

@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.pagination a{
+    text-decoration: none;
+    font-size: 40px;
+    padding: 8px 16px;
+    transition: 0.5s;
+}
+
+.pagination .active{
+    background-color: rgb(81, 178, 235);
+    color: #fff;
+}
+
+.pagination a:hover:not(.active , .no-hover){
+    background-color: #ddd;
+}

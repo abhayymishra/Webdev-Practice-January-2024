@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.whole-nav{
+    background-color: #f1f1f1;
+}
+
+
+.whole-nav a{
+    float: left;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    line-height: 30px;
+}
+
+.nav-right{
+    float: right;
+}

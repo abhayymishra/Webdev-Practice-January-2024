@@ -1,0 +1,19 @@
+input[type=text]{
+    float: left;
+    padding: 15px;
+    font-size: 15px;
+    background-color: #f1f1f1;
+    border: 1px solid grey;
+    width: 50%;
+}
+
+button{
+    float:left ;
+    padding: 15px;
+    font-size: 15px;
+    background-color: rgb(90, 133, 168);
+    border: 1px solid grey;
+    color: #fff;
+    cursor: pointer;
+    width: 10%;
+}
